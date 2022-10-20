@@ -318,9 +318,13 @@ namespace StarterAssets
 		public void TakePowerDecrease(float amount)
 		{
 			Power -= amount;
-			if (Power <= 0)
-				PowerText.text = Power.ToString();
 			PowerText.text = Power.ToString();
+
+			if (Power <= 0)
+			{
+				Power = 0;
+				PowerText.text = Power.ToString();
+			}
 			UltimateButton.SetActive(false);
 		}
 

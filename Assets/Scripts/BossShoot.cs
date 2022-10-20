@@ -10,17 +10,19 @@ public class BossShoot : MonoBehaviour
 
     public float timeToNextBossShoot=3;
     private float timeToNextBossShootReset=3;
+    private FirstPersonController player;
 
     // Start is called before the first frame update
     void Start()
     {
         timeToNextBossShootReset = timeToNextBossShoot;
+        player = GameObject.FindObjectOfType<FirstPersonController>();
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        transform.LookAt(GameObject.FindObjectOfType<FirstPersonController>().transform);
+        transform.LookAt(player.transform);
 
         timeToNextBossShoot -= Time.deltaTime;
         if (timeToNextBossShoot <= 0)
@@ -33,5 +35,6 @@ public class BossShoot : MonoBehaviour
         timeToNextBossShoot = timeToNextBossShootReset;
         GameObject bossBullet = BossBullet.Spawn(BossBulletSpawnPosition);
         bossBullet.gameObject.GetComponent<Bullet>().isBossBullet = true;
+        bossBullet.transform.SetParent(this.gameObject.transform);
     }
 }

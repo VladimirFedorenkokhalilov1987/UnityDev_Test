@@ -24,14 +24,14 @@
         <option value="$PROJECT_DIR$/Assets/InputSystem/StarterAssetsInputs.cs" />
         <option value="$PROJECT_DIR$/Assets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BossShoot.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EndGameStats.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameDataSO.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FirstPersonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpawnEnemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameLoop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FirstPersonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BossShoot.cs" />
       </list>
     </option>
   </component>
@@ -109,6 +109,10 @@
       <workItem from="1666248133507" duration="1791000" />
       <workItem from="1666249965187" duration="1976000" />
       <workItem from="1666251973988" duration="2210000" />
+      <workItem from="1666254349360" duration="1154000" />
+      <workItem from="1666263072723" duration="1086000" />
+      <workItem from="1666265125281" duration="1821000" />
+      <workItem from="1666267027673" duration="1766000" />
     </task>
     <servers />
   </component>

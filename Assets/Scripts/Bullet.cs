@@ -2,6 +2,7 @@ using System;
 using UnityEngine;
 using System.Collections;
 using StarterAssets;
+using Unity.VisualScripting;
 using Random = UnityEngine.Random;
 
 public class Bullet : MonoBehaviour
@@ -18,14 +19,19 @@ public class Bullet : MonoBehaviour
     private bool isRicosheted;
     private FirstPersonController player;
 
-    void OnEnable()
+    void Update()
     {
         if(!isBossBullet)
-        StartCoroutine(ShootToEnemy());
+            StartCoroutine(ShootToEnemy());
         if (isBossBullet)
             StartCoroutine(ShootToPlayer());
+    }
+
+    private void Start()
+    {
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<FirstPersonController>();
     }
+
 
     void OnDisable()
     {
@@ -91,10 +97,13 @@ public class Bullet : MonoBehaviour
             GameStats.EnemysKilled++;
             if(!isRicosheted)
                 gameObject.Recycle();
-            if (isRicosheted)
+            if (isRicosheted && !isBossBullet)
                 StartCoroutine(Ricoshete());
         }
 
+      
+
+        
         if (other.gameObject.tag == "Player")
         {
             player.TakePowerDecrease(bossBulletPower);
