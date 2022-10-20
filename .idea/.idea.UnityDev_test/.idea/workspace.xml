@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63db3bef-a696-417a-ae03-9e3b7098d04d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../RetroGamesTestTask/Library/PackageCache/com.unity.textmeshpro@1.2.4/Scripts/Runtime/TMPro_UGUI_Private.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/86ACB61E-0D2B-4B36-BC20-AF11093BE9A5/8e/028882a1/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.4.2/InputSystem/Actions/InputBindingResolver.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameDataSO.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/InputSystem/StarterAssetsInputs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BossShoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EndGameStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameDataSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FirstPersonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameLoop.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GLErdz6nE1C9JCLakPuRsNozin" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63db3bef-a696-417a-ae03-9e3b7098d04d" name="Default Changelist" comment="" />
+      <created>1666159683964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666159683964</updated>
+      <workItem from="1666159685491" duration="1638000" />
+      <workItem from="1666161484600" duration="1793000" />
+      <workItem from="1666163392877" duration="1796000" />
+      <workItem from="1666165248794" duration="1691000" />
+      <workItem from="1666167071912" duration="1791000" />
+      <workItem from="1666168880962" duration="1793000" />
+      <workItem from="1666170699799" duration="1792000" />
+      <workItem from="1666172550626" duration="1790000" />
+      <workItem from="1666174380518" duration="1816000" />
+      <workItem from="1666176254619" duration="2012000" />
+      <workItem from="1666178357913" duration="1798000" />
+      <workItem from="1666180179427" duration="1569000" />
+      <workItem from="1666182188153" duration="1429000" />
+      <workItem from="1666186020457" duration="1058000" />
+      <workItem from="1666191033922" duration="1531000" />
+      <workItem from="1666193782467" duration="1790000" />
+      <workItem from="1666195597017" duration="3195000" />
+      <workItem from="1666198846508" duration="1765000" />
+      <workItem from="1666200694661" duration="1089000" />
+      <workItem from="1666202733242" duration="1435000" />
+      <workItem from="1666204809994" duration="1809000" />
+      <workItem from="1666206644333" duration="970000" />
+      <workItem from="1666208685169" duration="1902000" />
+      <workItem from="1666210612643" duration="1331000" />
+      <workItem from="1666244470568" duration="1579000" />
+      <workItem from="1666246302184" duration="1568000" />
+      <workItem from="1666248133507" duration="1791000" />
+      <workItem from="1666249965187" duration="1976000" />
+      <workItem from="1666251973988" duration="2210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
